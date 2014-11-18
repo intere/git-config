@@ -33,3 +33,6 @@ Ensure you have git in your plugins configuration in your ``.zshrc`` file:
 ```zsh
 plugins=(git gitfast npm node bower gem mvn osx sublime brew vagrant)
 ```
+
+## License
+This is licensesed under the GNU GPL 2.0 (see [License File](LICENSE))
